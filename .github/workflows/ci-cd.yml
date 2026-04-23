@@ -79,7 +79,7 @@ jobs:
 
             echo "Connected to EC2"
 
-            cd /home/ec2-user
+            cd /home/ubuntu
 
             rm -rf demo-app
 
